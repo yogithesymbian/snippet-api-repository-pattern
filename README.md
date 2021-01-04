@@ -3,6 +3,10 @@ snippet-api-repository-pattern
 
 
 ```
+# for controller
+- coming soon
+
+# for services
 yoservices model            [short type] -> yomod
 yoservices repository       [short type] -> yorep
 yoservices request          [short type] -> yoreq
